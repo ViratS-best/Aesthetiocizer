@@ -1,0 +1,17 @@
+/build/
+/build-xiao/
+
+# CMake and Ninja output
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build.ninja
+compile_commands.json
+
+# Firmware build artifacts
+*.bin
+*.dis
+*.elf
+*.hex
+*.map
+*.uf2

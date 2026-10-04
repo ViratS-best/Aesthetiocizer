@@ -1,0 +1,18 @@
+{
+  "cmake.sourceDirectory": "C:/Users/kalps/Documents/Xiao_Car_AI/example-standalone-inferencing-pico-main/example-standalone-inferencing-pico-main",
+  "cmake.configureEnvironment": {
+    "PICO_TOOLCHAIN_PATH": "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 mpacbti-rel1/bin",
+    "CC": "C:/Users/kalps/llvm-mingw/llvm-mingw-20260616-ucrt-x86_64/bin/x86_64-w64-mingw32-gcc.exe",
+    "CXX": "C:/Users/kalps/llvm-mingw/llvm-mingw-20260616-ucrt-x86_64/bin/x86_64-w64-mingw32-g++.exe"
+  },
+  "cmake.buildEnvironment": {
+    "PATH": "C:/Users/kalps/llvm-mingw/llvm-mingw-20260616-ucrt-x86_64/bin;${env:PATH}",
+    "CC": "C:/Users/kalps/llvm-mingw/llvm-mingw-20260616-ucrt-x86_64/bin/x86_64-w64-mingw32-gcc.exe",
+    "CXX": "C:/Users/kalps/llvm-mingw/llvm-mingw-20260616-ucrt-x86_64/bin/x86_64-w64-mingw32-g++.exe"
+  },
+  "cmake.generator": "Ninja",
+  "cmake.configureArgs": [
+    "-DCMAKE_MAKE_PROGRAM=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe"
+  ],
+  "cmake.buildDirectory": "${workspaceFolder}/build-xiao"
+}

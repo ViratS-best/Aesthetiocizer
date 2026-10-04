@@ -1,0 +1,9 @@
+.program pdm_microphone
+.side_set 1
+
+.wrap_target
+    set x, 31 side 0
+bitloop:
+    in pins, 1 side 1 [1]
+    jmp x-- bitloop side 0 [1]
+.wrap
