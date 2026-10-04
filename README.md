@@ -5,6 +5,7 @@ The firmware captures microphone audio, runs an Edge Impulse model, and uses
 recognized commands to control the car.
 
 ## Design
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/ViratS-best/Aesthetiocizer/tree/main/design)
 <img width="853" height="505" alt="Screenshot 2026-10-04 105420" src="https://github.com/user-attachments/assets/dfc26dc3-f346-4230-8837-f16f39944a36" />
 <img width="1165" height="1135" alt="image" src="https://github.com/user-attachments/assets/87d59577-f363-44c9-96d6-24190596ba41" />
 
